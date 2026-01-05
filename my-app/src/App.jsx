@@ -16,7 +16,7 @@ function App() {
       <h1>CHAI AUR CODE | SAIF</h1>
       <h2>Counter: {counter}</h2>
       <button onClick={increase}> click here to Increase</button>
-      <button onClick={decrease}>Decrease</button>
+      <button onClick={decrease}>Decrease here to decrease</button>
     </div>
   )
 }
