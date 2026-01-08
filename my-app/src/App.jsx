@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <h1>CHAI AUR CODE | SAIF</h1>
+      <h1>CHAI AUR CODE | SAIF | FIRST PROJECT</h1>
       <h2>Counter: {counter}</h2>
       <button onClick={increase}>Increase</button>
       <button onClick={decrease}>Decrease</button>
