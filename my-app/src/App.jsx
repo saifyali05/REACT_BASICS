@@ -1,24 +1,11 @@
 import { useState } from 'react'
 
-function App() {
-  const [counter, setCounter] = useState(0)
-
-  const increase = () => {
-    setCounter(counter + 1)
-  }
-
-  const decrease = () => {
-    setCounter(counter - 1)
-  }
 
   return (
     <div>
-      <h1>CHAI AUR CODE | SAIF | FIRST PROJECT</h1>
-      <h2>Counter: {counter}</h2>
-      <button onClick={increase}>Increase</button>
-      <button onClick={decrease}>Decrease</button>
+      <h1>BACK TO THE TRACK</h1>
     </div>
   )
-}
+
 
 export default App
